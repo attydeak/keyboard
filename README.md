@@ -1,4 +1,4 @@
-# keyboard
+# My Redox keyboard
 
 Tracking the Keyboard Project
 
