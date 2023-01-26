@@ -1,6 +1,10 @@
 # My Redox keyboard
 
-Tracking the Keyboard Project
+## Tracking the Keyboard Project
+
+The keymap and some additional info can be found here: <https://github.com/attydeak/qmk_firmware/tree/master/keyboards/redox/keymaps/ad>
+
+## Documenting the construction process
 
 This is just to share my custom keyboard journey.
 
