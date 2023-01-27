@@ -3,10 +3,9 @@
 ## Tracking the Keyboard Project
 
 The keymap and some additional info can be found here: <https://github.com/attydeak/qmk_firmware/tree/master/keyboards/redox/keymaps/ad>
+This is just to share my custom keyboard journey. Used wood: recovered pallet wood.
 
-## Documenting the construction process
-
-This is just to share my custom keyboard journey.
+## WIP: Documenting the construction process
 
 ![Initial Tinkering](Pictures/IMG_20210522_214504.jpg)
 
