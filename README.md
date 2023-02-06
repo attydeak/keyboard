@@ -14,6 +14,8 @@ I may change a lot of the keys over the next few months, and will update this re
 
 The Keyboard firmware can be found here: <https://github.com/attydeak/qmk_firmware/tree/master/keyboards/redox/keymaps/ad>
 
+![DSC07217.JPG](Pictures/DSC07217.JPG)
+
 ## Layers
 
 My keymap uses 5 layers:
