@@ -47,7 +47,7 @@ I've also read posts by [Gergely Nagy](https://asylum.madhouse-project.org/blog/
 [Rebecca Le](https://sevenseacat.net/posts/2018/unicode-in-qmk-on-osx/), and
 [Justin Rogers](https://implementsblog.com/2016/10/16/my-ergodox-ezs-custom-layout/#comments) for inspiration.
 
-## WIP: Documenting the construction process
+## Documenting the construction process
 
 ### Tracking the Keyboard Project
 
@@ -57,9 +57,9 @@ Used switches: Kailh Speed Copper tactile switches
 
 ### Pictures to track the building process
 
-![Initial Tinkering](Pictures/IMG_20210522_214504.jpg) ![Working on the wooden frame 1](Pictures/IMG_20210523_173650.jpg)
+![Initial Tinkering](<img src="https://1drv.ms/i/c/6982b4e4288b4395/IQTv8cChZo0vSbTVDU7ZKGyyASSyyV33aZOk3b_xBDOz_tM?width=4624&height=3472">) ![Working on the wooden frame 1](Pictures/IMG_20210523_173650.jpg)
 
-![Working on the wooden frame 2](Pictures/IMG_20210523_173659.jpg) ![Spitted hal`8f's](Pictures/IMG_20210525_214624.jpg)
+![Working on the wooden frame 2](Pictures/IMG_20210523_173659.jpg) ![Spitted half's](Pictures/IMG_20210525_214624.jpg)
 
 ![Spitted half's with the Boards](Pictures/IMG_20210527_220101.jpg) ![TRRS Cable](Pictures/IMG_20210527_220110.jpg)
 
