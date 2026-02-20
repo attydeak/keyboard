@@ -14,7 +14,7 @@ I may change a lot of the keys over the next few months, and will update this re
 
 The Keyboard firmware can be found here: <https://github.com/attydeak/qmk_firmware/tree/master/keyboards/redox/keymaps/ad>
 
-![DSC07217.JPG](Pictures/DSC07217.JPG)
+![DSC07217.JPG](https://i.imgur.com/DTR7xQD.jpeg)
 
 ## Layers
 
@@ -57,62 +57,62 @@ Used switches: Kailh Speed Copper tactile switches
 
 ### Pictures to track the building process
 
-![Initial Tinkering](<img src="https://1drv.ms/i/c/6982b4e4288b4395/IQTv8cChZo0vSbTVDU7ZKGyyASSyyV33aZOk3b_xBDOz_tM?width=4624&height=3472">) ![Working on the wooden frame 1](Pictures/IMG_20210523_173650.jpg)
+![Initial Tinkering](https://i.imgur.com/QKhkPLD.jpeg) ![Working on the wooden frame 1](https://i.imgur.com/Z0EB6lj.jpeg)
 
-![Working on the wooden frame 2](Pictures/IMG_20210523_173659.jpg) ![Spitted half's](Pictures/IMG_20210525_214624.jpg)
+![Working on the wooden frame 2](https://i.imgur.com/t7VzOgz.jpeg) ![Spitted half's](https://i.imgur.com/CCotSZT.jpeg)
 
-![Spitted half's with the Boards](Pictures/IMG_20210527_220101.jpg) ![TRRS Cable](Pictures/IMG_20210527_220110.jpg)
+![Spitted half's with the Boards](https://i.imgur.com/vKM46OX.jpeg) ![TRRS Cable](https://i.imgur.com/4rDkOvp.jpeg)
 
-![Top plate](Pictures/IMG_20210619_152350.jpg) ![Boards](Pictures/IMG_20211103_104256.jpg)
+![Top plate](https://i.imgur.com/gyghNgy.jpeg) ![Boards](https://i.imgur.com/UgJoLBu.jpeg)
 
-![Manual labor](Pictures/IMG_20211109_191013.jpg) ![Filed case 1](Pictures/IMG_20211116_181852.jpg)
+![Manual labor](https://i.imgur.com/Q2Pmctx.jpeg) ![Filed case 1](https://i.imgur.com/qBeAzZb.jpeg)
 
-![Filed case 2](Pictures/IMG_20211116_181901.jpg) ![DSC07088.JPG](Pictures/DSC07088.JPG)
+![Filed case 2](https://i.imgur.com/7yZTZnK.jpeg) ![DSC07088.JPG](https://i.imgur.com/JhpjXtR.jpeg)
 
-![DSC07089.JPG](Pictures/DSC07089.JPG) ![DSC07090.JPG](Pictures/DSC07090.JPG)
+![DSC07089.JPG](https://i.imgur.com/AhwuUYD.jpeg) ![DSC07090.JPG](https://i.imgur.com/810bqDZ.jpeg)
 
-![DSC07091.JPG](Pictures/DSC07091.JPG) ![DSC07092.JPG](Pictures/DSC07092.JPG)
+![DSC07091.JPG](https://i.imgur.com/vtzXxJF.jpeg) ![DSC07092.JPG](https://i.imgur.com/MTEHAVA.jpeg)
 
-![DSC07093.JPG](Pictures/DSC07093.JPG) ![DSC07094.JPG](Pictures/DSC07094.JPG)
+![DSC07093.JPG](https://i.imgur.com/B8SIdfo.jpeg) ![DSC07094.JPG](https://i.imgur.com/GaWEISF.jpeg)
 
-![DSC07095.JPG](Pictures/DSC07095.JPG) ![DSC07096.JPG](Pictures/DSC07096.JPG)
+![DSC07095.JPG](https://i.imgur.com/qOnnhCM.jpeg) ![DSC07096.JPG](https://i.imgur.com/Zfwlyyb.jpeg)
 
-![DSC07097.JPG](Pictures/DSC07097.JPG) ![DSC07098.JPG](Pictures/DSC07098.JPG)
+![DSC07097.JPG](https://i.imgur.com/9PcBeeZ.jpeg) ![DSC07098.JPG](https://i.imgur.com/pGEoAQI.jpeg)
 
-![DSC07099.JPG](Pictures/DSC07099.JPG) ![DSC07100.JPG](Pictures/DSC07100.JPG)
+![DSC07099.JPG](https://i.imgur.com/fCe9IrY.jpeg) ![DSC07100.JPG](https://i.imgur.com/Pszgh20.jpeg)
 
-![DSC07101.JPG](Pictures/DSC07101.JPG) ![DSC07102.JPG](Pictures/DSC07102.JPG)
+![DSC07101.JPG](https://i.imgur.com/m89TsDw.jpeg) ![DSC07102.JPG](https://i.imgur.com/0t4AnVK.jpeg)
 
-![DSC07103.JPG](Pictures/DSC07103.JPG) ![DSC07104.JPG](Pictures/DSC07104.JPG)
+![DSC07103.JPG](https://i.imgur.com/8RF7PuH.jpeg) ![DSC07104.JPG](https://i.imgur.com/pDXDofi.jpeg)
 
-![DSC07105.JPG](Pictures/DSC07105.JPG) ![DSC07106.JPG](Pictures/DSC07106.JPG)
+![DSC07105.JPG](https://i.imgur.com/s4ygLak.jpeg) ![DSC07106.JPG](https://i.imgur.com/ERDSYjq.jpeg)
 
-![DSC07107.JPG](Pictures/DSC07107.JPG) ![DSC07108.JPG](Pictures/DSC07108.JPG)
+![DSC07107.JPG](https://i.imgur.com/2skt4iJ.jpeg) ![DSC07108.JPG](https://i.imgur.com/BnwNAZ8.jpeg)
 
-![DSC07109.JPG](Pictures/DSC07109.JPG) ![DSC07110.JPG](Pictures/DSC07110.JPG)
+![DSC07109.JPG](https://i.imgur.com/uChovck.jpeg) ![DSC07110.JPG](https://i.imgur.com/NMBsa5K.jpeg)
 
-![DSC07111.JPG](Pictures/DSC07111.JPG) ![DSC07112.JPG](Pictures/DSC07112.JPG)
+![DSC07111.JPG](https://i.imgur.com/fRSD40I.jpeg) ![DSC07112.JPG](https://i.imgur.com/Y8SiWZ2.jpeg)
 
-![DSC07113.JPG](Pictures/DSC07113.JPG) ![DSC07114.JPG](Pictures/DSC07114.JPG)
+![DSC07113.JPG](https://i.imgur.com/rUgGlcY.jpeg) ![DSC07114.JPG](https://i.imgur.com/Gep76ta.jpeg)
 
-![DSC07115.JPG](Pictures/DSC07115.JPG) ![DSC07116.JPG](Pictures/DSC07116.JPG)
+![DSC07115.JPG](https://i.imgur.com/XUfDwDt.jpeg) ![DSC07116.JPG](https://i.imgur.com/JqDuEbu.jpeg)
 
-![DSC07117.JPG](Pictures/DSC07117.JPG) ![DSC07118.JPG](Pictures/DSC07118.JPG)
+![DSC07117.JPG](https://i.imgur.com/qRj1Mbx.jpeg) ![DSC07118.JPG](https://i.imgur.com/usQSLtL.jpeg)
 
-![DSC07118.JPG](Pictures/DSC07118.JPG) ![DSC07119.JPG](Pictures/DSC07119.JPG)
+![DSC07119.JPG](https://i.imgur.com/cgic44T.jpeg) ![DSC07120.JPG](https://i.imgur.com/GZEFeDz.jpeg)
 
-![DSC07120.JPG](Pictures/DSC07120.JPG) ![DSC07121.JPG](Pictures/DSC07121.JPG)
+![DSC07121.JPG](https://i.imgur.com/RQ4FMAg.jpeg) ![DSC07205.JPG](https://i.imgur.com/hvGkG8s.jpeg)
 
-![DSC07205.JPG](Pictures/DSC07205.JPG) ![DSC07206.JPG](Pictures/DSC07206.JPG)
+![DSC07206.JPG](https://i.imgur.com/pMZbf4m.jpeg) ![DSC07207.JPG](https://i.imgur.com/w9wwhGL.jpeg)
 
-![DSC07207.JPG](Pictures/DSC07207.JPG) ![DSC07208.JPG](Pictures/DSC07208.JPG)
+![DSC07208.JPG](https://i.imgur.com/J9vCarR.jpeg) ![DSC07209.JPG](https://i.imgur.com/UWUzf5A.jpeg)
 
-![DSC07209.JPG](Pictures/DSC07209.JPG) ![DSC07210.JPG](Pictures/DSC07210.JPG)
+![DSC07210.JPG](https://i.imgur.com/UfZApGK.jpeg) ![DSC07211.JPG](https://i.imgur.com/4Wq0yny.jpeg)
 
-![DSC07211.JPG](Pictures/DSC07211.JPG) ![DSC07212.JPG](Pictures/DSC07212.JPG)
+![DSC07212.JPG](https://i.imgur.com/25ioTli.jpeg) ![DSC07213.JPG](https://i.imgur.com/pzlr4VI.jpeg)
 
-![DSC07213.JPG](Pictures/DSC07213.JPG) ![DSC07214.JPG](Pictures/DSC07214.JPG)
+![DSC07214.JPG](https://i.imgur.com/8efDpo8.jpeg) ![DSC07215.JPG](https://i.imgur.com/tA4fc4n.jpeg)
 
-![DSC07215.JPG](Pictures/DSC07215.JPG) ![DSC07216.JPG](Pictures/DSC07216.JPG)
+![DSC07216.JPG](https://i.imgur.com/ZcqUZ8y.jpeg) ![DSC07217.JPG](https://i.imgur.com/DTR7xQD.jpeg)
 
-![DSC07217.JPG](Pictures/DSC07217.JPG) ![DSC07218.JPG](Pictures/DSC07218.JPG)
+![DSC07218.JPG](https://i.imgur.com/zwOes4u.jpeg)
